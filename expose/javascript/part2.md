@@ -19,7 +19,7 @@
      F. true === Boolean(2) --> true, `Boolean(2)` return boolan value `true`, which strictly equal to `true`.<br><br>
 
 15. `==` is an normal math operation which allows type conversion, while `===` is so called "Strict equality", which compares two arguement without type conversion. 
-16. function `modifyArray([1,2,3],addSomething)` will return array `[2,4,6]`. Function `modifyArray` will iterate the given list, and apply the callback function to each element in the given list. In the given example, `modifyArray` will iterate through`[1,2,3]` and apply `doSomething` to each element in the list.
-17. `1,4,3,2`. 
+17. function `modifyArray([1,2,3],addSomething)` will return array `[2,4,6]`. Function `modifyArray` will iterate the given list, and apply the callback function to each element in the given list. In the given example, `modifyArray` will iterate through`[1,2,3]` and apply `doSomething` to each element in the list.
+19. `1,4,3,2`. 
 
     
